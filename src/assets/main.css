@@ -1,0 +1,5 @@
+/* src/assets/main.css */
+/* Base CSS – imported by main.js. Bulk styles are in App.vue <style>. */
+
+/* Leaflet fix for Vite bundling */
+@import 'leaflet/dist/leaflet.css';
